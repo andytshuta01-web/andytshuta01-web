@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="./CONCEPTION RÉELLE - Voici ce que nous publions !.png" width="100%" alt="CONCEPTION RÉELLE - Voici ce que nous publions !.png">
+    <img src=".banner.png" width="100%" alt="banner.png">
 </div>
