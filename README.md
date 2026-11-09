@@ -1,8 +1,8 @@
 
 <div align="center">
   <img src="![Uploading ACTUAL DESIGN - This is what we publish!.png…]()
-" width="100%" alt="Présentation Andy Tshuta">
-</div><!--
+" width="100%" alt="Andy Tshuta">
+</div>
 **andytshuta01-web/andytshuta01-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
