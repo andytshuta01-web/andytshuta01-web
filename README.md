@@ -8,90 +8,95 @@ Hello! I'm Andy Tshuta, a Full-Stack Developer and UI/UX Designer passionate abo
 
 I combine technical development skills with creative design to transform ideas into meaningful digital experiences.
 
-💻 Developing modern and responsive web applications.
+Developing modern and responsive web applications.
 
-🎨 Designing intuitive and visually appealing user interfaces.
+ Designing intuitive and visually appealing user interfaces.
 
-⚙️ Building backend systems and RESTful APIs.
+ Building backend systems and RESTful APIs.
 
-🗄️ Working with databases and application architecture.
+ Working with databases and application architecture.
 
-🚀 Turning complex ideas into practical digital solutions.
+ Turning complex ideas into practical digital solutions.
 
-🤝 Open to collaborations and innovative projects.
+ Open to collaborations and innovative projects.
 
 My philosophy: Great software combines functionality, performance and exceptional user experience.
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
-### 🌐 Frontend Development
+###  Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### ⚙️ Backend Development
+###  Backend Development
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java" />
 </p>
 
-### 🎨 UI/UX Design
+###  UI/UX Design
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-### 🗄️ Database Management
+###  Database Management
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-### 💅 Styling
+###  Styling
 <p>
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
 </p>
 
-### 🔧 Development Tools
+### Development Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" />
 </p>
 
-### 🔄 Version Control
+###  Version Control
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-### 🎬 Multimedia
+###  Multimedia
 <p>
   <img src="https://skillicons.dev/icons?i=ae,pr,capcut" />
 </p>
-<h2 align="center">🔥 GitHub Activity & Contributions</h2>
-
-<p align="center">
-  <i>Consistency is the key to mastery.</i>
-</p>
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="100%">
+<h2> GITHUB ACTIVITY CENTER</h2>
 
-<img src="https://streak-stats.demolab.com?user=andytshuta01-web&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" width="100%" alt="GitHub Contribution Streak"/>
+<p>
+  <b>Consistency · Creativity · Innovation</b>
+</p>
 
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/PROFILE-ANDY%20TSHUTA-6366F1?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/STATUS-CODING-22C55E?style=for-the-badge&labelColor=0D1117"/>
+
+<br/><br/>
+
+<h3> Contribution Streak</h3>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=andytshuta01-web&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=F97316&currStreakLabel=8B5CF6&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<h3> Contribution Activity</h3>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=andytshuta01-web&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=4F46E5&hide_border=true&custom_title=Andy's%20Contribution%20Graph" alt="Contribution Graph"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andytshuta01-web&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<h3> Development Mindset</h3>
 
-</div>
+<img src="https://img.shields.io/badge/BUILDING-NEW%20IDEAS-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/WRITING-CLEAN%20CODE-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/ALWAYS-IMPROVING-22C55E?style=flat-square"/>
 
----
+<br/><br/>
 
-<div align="center">
+<h3> Code. Create. Innovate.</h3>
 
-### 💻 Building. Learning. Improving.
-
-**Every contribution is a step forward.**
+<i>"Great things are built one commit at a time."</i>
 
 </div>
