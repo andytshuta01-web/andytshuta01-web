@@ -62,10 +62,36 @@ My philosophy: Great software combines functionality, performance and exceptiona
 <p>
   <img src="https://skillicons.dev/icons?i=ae,pr,capcut" />
 </p>
-<h2 align="center">🔥 Contribution Streak</h2>
+<h2 align="center">🔥 GitHub Activity & Contributions</h2>
+
+<p align="center">
+  <i>Consistency is the key to mastery.</i>
+</p>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=andytshuta01-web&theme=tokyonight&hide_border=true"/>
+<table>
+<tr>
+<td align="center" width="100%">
+
+<img src="https://streak-stats.demolab.com?user=andytshuta01-web&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" width="100%" alt="GitHub Contribution Streak"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andytshuta01-web&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Building. Learning. Improving.
+
+**Every contribution is a step forward.**
 
 </div>
