@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<!--
+<div align="center">
+  <img src="./presentation.gif" width="100%" alt="Présentation Andy Tshuta">
+</div><!--
 **andytshuta01-web/andytshuta01-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
