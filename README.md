@@ -62,3 +62,10 @@ My philosophy: Great software combines functionality, performance and exceptiona
 <p>
   <img src="https://skillicons.dev/icons?i=ae,pr,capcut" />
 </p>
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=andytshuta01-web&theme=tokyonight&hide_border=true"/>
+
+</div>
