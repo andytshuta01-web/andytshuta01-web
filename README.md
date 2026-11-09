@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <div align="center">
   <img src="![Uploading ACTUAL DESIGN - This is what we publish!.png…]()
