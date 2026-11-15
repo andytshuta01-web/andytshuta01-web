@@ -113,7 +113,7 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
     <td align="center" width="35%">
       <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=40&repeat=false&lines=%F0%9F%8E%81+Mon+autocollant" alt="Mon autocollant" />
       <br/>
-      <img src="./assets/autocollant-1.jpeg" width="100%" alt="Autocollant Hacktoberfest" />
+      <img src="./assets/autocollants-1.jpeg" width="100%" alt="Autocollant Hacktoberfest" />
     </td>
   </tr>
 </table>
