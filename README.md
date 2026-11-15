@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Andy%20Tshuta&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20UI%2FUX%20Designer&descSize=20&descAlignY=58" alt="Andy Tshuta" />
+  <img src="./banner.jpg" width="100%" alt="Andy Tshuta">
 </div>
 
 <div align="center">
@@ -76,13 +76,13 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 
 <h3>🎓 Mon certificat</h3>
 
-<img src="./assets/certificat-hacktoberfest.jpeg" width="70%" alt="Certificat Hacktoberfest" />
+<img src="./assets/certificat-hacktoberfest.png" width="70%" alt="Certificat Hacktoberfest" />
 
 <br/><br/>
 
 <h3>🎁 Mes autocollants reçus</h3>
 
-<img src="./assets/autocollants-1.jpeg" width="30%" alt="Autocollant 1" />
+<img src="./assets/autocollants-1.png" width="30%" alt="Autocollant 1" />
 <img src="./assets/autocollants-2.png" width="30%" alt="Autocollant 2" />
 <img src="./assets/autocollants-3.png" width="30%" alt="Autocollant 3" />
 
@@ -133,18 +133,3 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 ## 🤝 Restons en contact
 
 <div align="center">
-  <a href="https://github.com/andytshuta01-web">
-    <img src="https://img.shields.io/badge/GitHub-andytshuta01--web-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>✨ Code. Create. Innovate. ✨</h3>
-  <i>« Great things are built one commit at a time. »</i>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="" />
-</div>
