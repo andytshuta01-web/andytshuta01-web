@@ -1,14 +1,7 @@
-<!-- ============================================================
-     README DE PROFIL GITHUB — Andy Tshuta
-     Place ce fichier dans le dépôt : andytshuta01-web/andytshuta01-web
-     ============================================================ -->
-
-<!-- ===== EN-TÊTE ANIMÉ (vague) ===== -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Andy%20Tshuta&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20UI%2FUX%20Designer&descSize=20&descAlignY=58" alt="Andy Tshuta" />
 </div>
 
-<!-- ===== TEXTE QUI S'ÉCRIT TOUT SEUL ===== -->
 <div align="center">
   <a href="https://github.com/andytshuta01-web">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Je+construis+des+applications+web+modernes;Je+con%C3%A7ois+des+interfaces+intuitives;Je+d%C3%A9veloppe+des+API+REST+robustes;Du+code+propre%2C+du+design+soign%C3%A9" alt="Typing SVG" />
@@ -17,7 +10,6 @@
 
 <br/>
 
-<!-- ===== BADGES ===== -->
 <div align="center">
   <img src="https://img.shields.io/badge/Full--Stack-Developer-6366F1?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/UI%2FUX-Designer-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -81,8 +73,8 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=andytshuta01-web&show_icons=true&theme=transparent&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&hide_border=true&rank_icon=github" alt="Stats GitHub" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andytshuta01-web&layout=compact&theme=transparent&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&hide_border=true" alt="Langages principaux" />
+<img height="180" src="https://raw.githubusercontent.com/andytshuta01-web/andytshuta01-web/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats GitHub" />
+<img height="180" src="https://raw.githubusercontent.com/andytshuta01-web/andytshuta01-web/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Langages principaux" />
 
 <br/><br/>
 
@@ -124,18 +116,6 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
   <a href="https://github.com/andytshuta01-web">
     <img src="https://img.shields.io/badge/GitHub-andytshuta01--web-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Ajoute tes autres liens ci-dessous (décommente et remplace) -->
-  <!--
-  <a href="https://linkedin.com/in/TON-PROFIL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ton.email@exemple.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://ton-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  -->
 </div>
 
 <br/>
@@ -145,7 +125,6 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
   <i>« Great things are built one commit at a time. »</i>
 </div>
 
-<!-- ===== PIED DE PAGE ANIMÉ (vague) ===== -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="" />
 </div>
