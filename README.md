@@ -13,6 +13,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Full--Stack-Developer-6366F1?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/UI%2FUX-Designer-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hacktoberfest-Participant-FF8F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ouvert%20aux-collaborations-22C55E?style=for-the-badge" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=andytshuta01-web&label=Visiteurs&color=8B5CF6&style=for-the-badge" />
@@ -69,14 +70,33 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 
 ---
 
-## 📊 Statistiques GitHub
+## 🏆 Hacktoberfest
 
 <div align="center">
 
-<img height="180" src="https://raw.githubusercontent.com/andytshuta01-web/andytshuta01-web/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats GitHub" />
-<img height="180" src="https://raw.githubusercontent.com/andytshuta01-web/andytshuta01-web/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Langages principaux" />
+<h3>🎓 Mon certificat</h3>
+
+<img src="./assets/certificat-hacktoberfest.jpeg" width="70%" alt="Certificat Hacktoberfest" />
 
 <br/><br/>
+
+<h3>🎁 Mes autocollants reçus</h3>
+
+<img src="./assets/autocollants-1.jpeg" width="30%" alt="Autocollant 1" />
+<img src="./assets/autocollants-2.png" width="30%" alt="Autocollant 2" />
+<img src="./assets/autocollants-3.png" width="30%" alt="Autocollant 3" />
+
+<br/><br/>
+
+<i>Fier d'avoir contribué à l'open source 💜</i>
+
+</div>
+
+---
+
+## 📊 Activité GitHub
+
+<div align="center">
 
 <img width="95%" src="https://streak-stats.demolab.com?user=andytshuta01-web&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=F97316&currStreakLabel=8B5CF6&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="Série de contributions" />
 
