@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/andytshuta01-web">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Je+construis+des+applications+web+modernes;Je+con%C3%A7ois+des+interfaces+intuitives;Je+d%C3%A9veloppe+des+API+REST+robustes;Du+code+propre%2C+du+design+soign%C3%A9" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=Je+construis+des+applications+web+modernes;Je+con%C3%A7ois+des+interfaces+intuitives;Je+d%C3%A9veloppe+des+API+REST+robustes;Du+code+propre%2C+du+design+soign%C3%A9" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,16 +26,18 @@
 
 ---
 
-## 👋 À propos de moi
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=45&repeat=false&lines=%F0%9F%91%8B+%C3%80+propos+de+moi" alt="À propos de moi" />
+</div>
 
 Bonjour ! Je suis **Andy Tshuta**, développeur **Full-Stack** et **UI/UX Designer**, passionné par la création de solutions numériques modernes, évolutives et centrées sur l'utilisateur.
 
 J'associe compétences techniques et sens créatif pour transformer des idées en expériences numériques concrètes.
 
-<table>
+<table width="100%">
   <tr>
-    <td>💻 Applications web modernes et responsives</td>
-    <td>🎨 Interfaces intuitives et esthétiques</td>
+    <td width="50%">💻 Applications web modernes et responsives</td>
+    <td width="50%">🎨 Interfaces intuitives et esthétiques</td>
   </tr>
   <tr>
     <td>⚙️ Systèmes backend et API RESTful</td>
@@ -51,36 +53,60 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 
 ---
 
-## 🛠️ Technologies & Outils
-
 <div align="center">
-
-| Catégorie | Technologies |
-|:---|:---|
-| **🌐 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react" /> |
-| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java" /> |
-| **🎨 UI/UX** | <img src="https://skillicons.dev/icons?i=figma" /> |
-| **🗄️ Bases de données** | <img src="https://skillicons.dev/icons?i=mysql,sqlite" /> |
-| **💅 Styling** | <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" /> |
-| **🧰 Outils de dev** | <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" /> |
-| **🔀 Versioning** | <img src="https://skillicons.dev/icons?i=git,github" /> |
-| **🎬 Multimédia** | <img src="https://skillicons.dev/icons?i=ae,pr,capcut" /> |
-
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=45&repeat=false&lines=%F0%9F%9B%A0%EF%B8%8F+Technologies+%26+Outils" alt="Technologies & Outils" />
 </div>
+
+<table width="100%">
+  <tr>
+    <td width="30%"><b>🌐 Frontend</b></td>
+    <td width="70%"><img src="https://skillicons.dev/icons?i=html,css,js,react" /></td>
+  </tr>
+  <tr>
+    <td width="30%"><b>⚙️ Backend</b></td>
+    <td width="70%"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java" /></td>
+  </tr>
+  <tr>
+    <td width="30%"><b>🎨 UI/UX</b></td>
+    <td width="70%"><img src="https://skillicons.dev/icons?i=figma" /></td>
+  </tr>
+  <tr>
+    <td width="30%"><b>🗄️ Bases de données</b></td>
+    <td width="70%"><img src="https://skillicons.dev/icons?i=mysql,sqlite" /></td>
+  </tr>
+  <tr>
+    <td width="30%"><b>💅 Styling</b></td>
+    <td width="70%"><img src="https://skillicons.dev/icons?i=tailwind,bootstrap" /></td>
+  </tr>
+  <tr>
+    <td width="30%"><b>🧰 Outils de dev</b></td>
+    <td width="70%"><img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" /></td>
+  </tr>
+  <tr>
+    <td width="30%"><b>🔀 Versioning</b></td>
+    <td width="70%"><img src="https://skillicons.dev/icons?i=git,github" /></td>
+  </tr>
+  <tr>
+    <td width="30%"><b>🎬 Multimédia</b></td>
+    <td width="70%"><img src="https://skillicons.dev/icons?i=ae,pr,capcut" /></td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Hacktoberfest
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=45&repeat=false&lines=%F0%9F%8F%86+Hacktoberfest" alt="Hacktoberfest" />
+</div>
 
 <div align="center">
 
-<h3>🎓 Mon certificat</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&height=40&repeat=false&lines=%F0%9F%8E%93+Mon+certificat" alt="Mon certificat" />
 
 <img src="./assets/certificat-hacktoberfest.png" width="70%" alt="Certificat Hacktoberfest" />
 
 <br/><br/>
 
-<h3>🎁 Mes autocollants reçus</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&height=40&repeat=false&lines=%F0%9F%8E%81+Mes+autocollants+re%C3%A7us" alt="Mes autocollants reçus" />
 
 <img src="./assets/autocollants-1.png" width="30%" alt="Autocollant 1" />
 <img src="./assets/autocollants-2.png" width="30%" alt="Autocollant 2" />
@@ -94,7 +120,9 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 
 ---
 
-## 📊 Activité GitHub
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=45&repeat=false&lines=%F0%9F%93%8A+Activit%C3%A9+GitHub" alt="Activité GitHub" />
+</div>
 
 <div align="center">
 
@@ -108,7 +136,9 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 
 ---
 
-## 🐍 Mon activité en mode Snake
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=45&repeat=false&lines=%F0%9F%90%8D+Mon+activit%C3%A9+en+mode+Snake" alt="Snake" />
+</div>
 
 <div align="center">
   <picture>
@@ -120,7 +150,9 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 
 ---
 
-## 🧠 État d'esprit
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=45&repeat=false&lines=%F0%9F%A7%A0+%C3%89tat+d%27esprit" alt="État d'esprit" />
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/CONSTRUIRE-DE%20NOUVELLES%20IDÉES-8B5CF6?style=flat-square" />
@@ -130,6 +162,24 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 
 ---
 
-## 🤝 Restons en contact
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=45&repeat=false&lines=%F0%9F%A4%9D+Restons+en+contact" alt="Restons en contact" />
+</div>
 
 <div align="center">
+  <a href="https://github.com/andytshuta01-web">
+    <img src="https://img.shields.io/badge/GitHub-andytshuta01--web-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=45&repeat=false&lines=%E2%9C%A8+Code.+Create.+Innovate.+%E2%9C%A8" alt="Code. Create. Innovate." />
+  <br/>
+  <i>« Great things are built one commit at a time. »</i>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="" />
+</div>
