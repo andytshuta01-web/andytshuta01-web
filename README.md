@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-  <img src="https://api.iconify.design/ph/user-circle-duotone.svg?color=%23E5E7EB" height="70" align="absmiddle" />
+  <img src="https://api.iconify.design/ph/user-circle-duotone.svg?color=%23E5E7EB" height="52" align="absmiddle" />
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=340&height=52&repeat=false&lines=%C3%80+propos+de+moi" alt="À propos de moi" align="absmiddle" />
 </div>
 
@@ -53,6 +53,42 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 </div>
 
 > <img src="https://api.iconify.design/ph/lightbulb-duotone.svg?color=%23E5E7EB" height="30" align="absmiddle" /> **Ma philosophie :** un excellent logiciel allie fonctionnalité, performance et expérience utilisateur exceptionnelle.
+
+---
+
+<div align="center">
+  <img src="https://api.iconify.design/ph/briefcase-duotone.svg?color=%23E5E7EB" height="52" align="absmiddle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=220&height=52&repeat=false&lines=Services" alt="Services" align="absmiddle" />
+</div>
+
+<div align="center">
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://api.iconify.design/ph/globe-duotone.svg?color=%23E5E7EB" height="40" /><br/>
+      <b>Création de sites web</b><br/>
+      Sites vitrines et plateformes modernes, rapides et adaptés à tous les écrans.
+    </td>
+    <td width="50%" align="center">
+      <img src="https://api.iconify.design/ph/app-window-duotone.svg?color=%23E5E7EB" height="40" /><br/>
+      <b>Applications web</b><br/>
+      Applications sur mesure, du frontend au backend, avec base de données.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://api.iconify.design/ph/pen-nib-duotone.svg?color=%23E5E7EB" height="40" /><br/>
+      <b>Design UI/UX</b><br/>
+      Maquettes et prototypes Figma pour des interfaces claires et agréables.
+    </td>
+    <td width="50%" align="center">
+      <img src="https://api.iconify.design/ph/plugs-connected-duotone.svg?color=%23E5E7EB" height="40" /><br/>
+      <b>API et backend</b><br/>
+      API REST sécurisées et bien structurées pour vos applications.
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -101,6 +137,91 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 ---
 
 <div align="center">
+  <img src="https://api.iconify.design/ph/rocket-launch-duotone.svg?color=%23E5E7EB" height="52" align="absmiddle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&height=52&repeat=false&lines=Ce+que+j%27apprends" alt="Ce que j'apprends" align="absmiddle" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,docker,postgres" />
+  <br/><br/>
+  <i>Toujours en train d'apprendre de nouvelles technologies</i>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://api.iconify.design/ph/folder-open-duotone.svg?color=%23E5E7EB" height="52" align="absmiddle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&height=52&repeat=false&lines=Projets+en+vedette" alt="Projets en vedette" align="absmiddle" />
+</div>
+
+<div align="center">
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://api.iconify.design/ph/folder-open-duotone.svg?color=%23E5E7EB" height="40" /><br/>
+      <b>Nom du projet 1</b><br/>
+      Courte description de ce que fait le projet.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,mysql" /><br/><br/>
+      <a href="https://github.com/andytshuta01-web/NOM-DU-DEPOT-1"><img src="https://img.shields.io/badge/Voir%20le%20projet-4B5563?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://api.iconify.design/ph/folder-open-duotone.svg?color=%23E5E7EB" height="40" /><br/>
+      <b>Nom du projet 2</b><br/>
+      Courte description de ce que fait le projet.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js" /><br/><br/>
+      <a href="https://github.com/andytshuta01-web/NOM-DU-DEPOT-2"><img src="https://img.shields.io/badge/Voir%20le%20projet-4B5563?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://api.iconify.design/ph/folder-open-duotone.svg?color=%23E5E7EB" height="40" /><br/>
+      <b>Nom du projet 3</b><br/>
+      Courte description de ce que fait le projet.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=nestjs,java,sqlite" /><br/><br/>
+      <a href="https://github.com/andytshuta01-web/NOM-DU-DEPOT-3"><img src="https://img.shields.io/badge/Voir%20le%20projet-4B5563?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://api.iconify.design/ph/folder-open-duotone.svg?color=%23E5E7EB" height="40" /><br/>
+      <b>Nom du projet 4</b><br/>
+      Courte description de ce que fait le projet.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=figma" /><br/><br/>
+      <a href="https://github.com/andytshuta01-web/NOM-DU-DEPOT-4"><img src="https://img.shields.io/badge/Voir%20le%20projet-4B5563?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://api.iconify.design/ph/path-duotone.svg?color=%23E5E7EB" height="52" align="absmiddle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=260&height=52&repeat=false&lines=Parcours" alt="Parcours" align="absmiddle" />
+</div>
+
+<div align="center">
+<table width="100%" align="center">
+  <tr>
+    <td width="15%" align="center"><img src="https://api.iconify.design/ph/graduation-cap-duotone.svg?color=%23E5E7EB" height="36" /><br/><b>20XX</b></td>
+    <td width="85%" align="left"><b>Formation / études</b><br/>Nom de l'école ou de la formation, et ce que tu y as appris.</td>
+  </tr>
+  <tr>
+    <td width="15%" align="center"><img src="https://api.iconify.design/ph/code-duotone.svg?color=%23E5E7EB" height="36" /><br/><b>20XX</b></td>
+    <td width="85%" align="left"><b>Premiers projets</b><br/>Tes premiers sites ou applications, et les technologies découvertes.</td>
+  </tr>
+  <tr>
+    <td width="15%" align="center"><img src="https://api.iconify.design/ph/briefcase-duotone.svg?color=%23E5E7EB" height="36" /><br/><b>20XX</b></td>
+    <td width="85%" align="left"><b>Expérience / stage / mission</b><br/>Nom de l'entreprise ou du client, ton rôle et tes réalisations.</td>
+  </tr>
+  <tr>
+    <td width="15%" align="center"><img src="https://api.iconify.design/ph/trophy-duotone.svg?color=%23E5E7EB" height="36" /><br/><b>2026</b></td>
+    <td width="85%" align="left"><b>Hacktoberfest</b><br/>Participation à l'événement open source et obtention du certificat.</td>
+  </tr>
+</table>
+</div>
+
+---
+
+<div align="center">
   <img src="https://api.iconify.design/ph/trophy-duotone.svg?color=%23E5E7EB" height="52" align="absmiddle" />
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=320&height=52&repeat=false&lines=Hacktoberfest" alt="Hacktoberfest" align="absmiddle" />
 </div>
@@ -112,18 +233,53 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
       <img src="https://api.iconify.design/ph/graduation-cap-duotone.svg?color=%23E5E7EB" height="44" align="absmiddle" />
       <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=240&height=44&repeat=false&lines=Mon+certificat" alt="Mon certificat" align="absmiddle" />
       <br/>
-      <img src="./assets/certificat-hacktoberfest.jpeg" width="100%" alt="Certificat Hacktoberfest" />
+      <img src="./assets/certificat-hacktoberfest.png" width="100%" alt="Certificat Hacktoberfest" />
     </td>
     <td align="center" width="35%">
       <img src="https://api.iconify.design/ph/sticker-duotone.svg?color=%23E5E7EB" height="44" align="absmiddle" />
       <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=240&height=44&repeat=false&lines=Mon+autocollant" alt="Mon autocollant" align="absmiddle" />
       <br/>
-      <img src="./assets/autocollants-1.jpeg" width="100%" alt="Autocollant Hacktoberfest" />
+      <img src="./assets/autocollant.png" width="100%" alt="Autocollant Hacktoberfest" />
     </td>
   </tr>
 </table>
 
 <img src="https://api.iconify.design/ph/heart-duotone.svg?color=%23E5E7EB" height="28" align="absmiddle" /> <i>Fier d'avoir contribué à l'open source</i>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://api.iconify.design/ph/certificate-duotone.svg?color=%23E5E7EB" height="52" align="absmiddle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=460&height=52&repeat=false&lines=Autres+certificats" alt="Autres certificats" align="absmiddle" />
+</div>
+
+<div align="center">
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/certificat-2.png" width="100%" alt="Certificat 2" /><br/>
+      <b>Nom de la formation 1</b><br/>
+      Organisme · 20XX
+    </td>
+    <td width="50%" align="center">
+      <img src="./assets/certificat-3.png" width="100%" alt="Certificat 3" /><br/>
+      <b>Nom de la formation 2</b><br/>
+      Organisme · 20XX
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://api.iconify.design/ph/medal-duotone.svg?color=%23E5E7EB" height="52" align="absmiddle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=52&repeat=false&lines=Troph%C3%A9es" alt="Trophées" align="absmiddle" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=andytshuta01-web&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophées GitHub" />
 </div>
 
 ---
@@ -139,7 +295,7 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 
 <br/><br/>
 
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=andytshuta01-web&bg_color=0D1117&color=FFFFFF&line=C0C0C0&point=FFFFFF&area=true&area_color=9CA3AF&hide_border=true&custom_title=Graphique%20de%20contributions" alt="Graphique d'activité" />
 
 </div>
 
@@ -161,6 +317,16 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 ---
 
 <div align="center">
+  <img src="https://api.iconify.design/ph/newspaper-duotone.svg?color=%23E5E7EB" height="52" align="absmiddle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&height=52&repeat=false&lines=Derniers+articles" alt="Derniers articles" align="absmiddle" />
+</div>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<div align="center">
   <img src="https://api.iconify.design/ph/brain-duotone.svg?color=%23E5E7EB" height="52" align="absmiddle" />
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=320&height=52&repeat=false&lines=%C3%89tat+d%27esprit" alt="État d'esprit" align="absmiddle" />
 </div>
@@ -174,11 +340,27 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 ---
 
 <div align="center">
-  <img src="https://api.iconify.design/ph/handshake-duotone.svg?color=%23E5E7EB" height="52" align="absmiddle" />
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&height=52&repeat=false&lines=Restons+en+contact" alt="Restons en contact" align="absmiddle" />
+  <img src="https://api.iconify.design/ph/paper-plane-tilt-duotone.svg?color=%23E5E7EB" height="52" align="absmiddle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=320&height=52&repeat=false&lines=Me+contacter" alt="Me contacter" align="absmiddle" />
 </div>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/TON-PROFIL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ton.email@exemple.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/NUMERO_AVEC_INDICATIF">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <br/>
+  <a href="https://ton-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-4B5563?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="./assets/CV-Andy-Tshuta.pdf">
+    <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger%20mon%20CV-4B5563?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
   <a href="https://github.com/andytshuta01-web">
     <img src="https://img.shields.io/badge/GitHub-andytshuta01--web-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
