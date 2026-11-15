@@ -253,13 +253,13 @@ sur la fraîcheur des produits et la nécessité d'une traçabilité irréprocha
       <img src="https://api.iconify.design/ph/graduation-cap-duotone.svg?color=%23E5E7EB" height="44" align="absmiddle" />
       <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=240&height=44&repeat=false&lines=Mon+certificat" alt="Mon certificat" align="absmiddle" />
       <br/>
-      <img src="./assets/certificat-hacktoberfest.png" width="100%" alt="Certificat Hacktoberfest" />
+      <img src="./assets/certificat-hacktoberfest.jpeg" width="100%" alt="Certificat Hacktoberfest" />
     </td>
     <td align="center" width="35%">
       <img src="https://api.iconify.design/ph/sticker-duotone.svg?color=%23E5E7EB" height="44" align="absmiddle" />
       <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=240&height=44&repeat=false&lines=Mon+autocollant" alt="Mon autocollant" align="absmiddle" />
       <br/>
-      <img src="./assets/autocollant.png" width="100%" alt="Autocollant Hacktoberfest" />
+      <img src="./assets/autocollants-1.jpeg" width="100%" alt="Autocollant Hacktoberfest" />
     </td>
   </tr>
 </table>
