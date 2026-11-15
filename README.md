@@ -175,15 +175,19 @@ Je suis ouvert aux collaborations, aux missions freelance et aux projets innovan
   <tr>
     <td width="50%" align="center">
       <img src="https://api.iconify.design/ph/folder-open-duotone.svg?color=%23E5E7EB" height="40" /><br/>
-      <b>Nom du projet 1</b><br/>
-      Courte description de ce que fait le projet.<br/><br/>
+      <b>UZA shop </b><br/>
+      une solution logicielle innovante dédiée à la gestion optimisée des stocks et des 
+ventes de produits alimentaires. Face aux défis croissants de la chaîne 
+d'approvisionnement moderne, caractérisés par des marges réduites, une forte pression 
+sur la fraîcheur des produits et la nécessité d'une traçabilité irréprochable, Uza Shops 
+émerge comme une réponse technologique stratégique.<br/><br/>
       <img src="https://skillicons.dev/icons?i=react,nodejs,mysql" /><br/><br/>
       <a href="https://github.com/andytshuta01-web/NOM-DU-DEPOT-1"><img src="https://img.shields.io/badge/Voir%20le%20projet-4B5563?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" align="center">
       <img src="https://api.iconify.design/ph/folder-open-duotone.svg?color=%23E5E7EB" height="40" /><br/>
-      <b>Nom du projet 2</b><br/>
-      Courte description de ce que fait le projet.<br/><br/>
+      <b>Séjour RDC</b><br/>
+      Application web pour la gestion des séjours des étrangers en RDC<br/><br/>
       <img src="https://skillicons.dev/icons?i=html,css,js" /><br/><br/>
       <a href="https://github.com/andytshuta01-web/NOM-DU-DEPOT-2"><img src="https://img.shields.io/badge/Voir%20le%20projet-4B5563?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
