@@ -112,13 +112,13 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
       <img src="https://api.iconify.design/ph/graduation-cap-duotone.svg?color=%23E5E7EB" height="44" align="absmiddle" />
       <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=240&height=44&repeat=false&lines=Mon+certificat" alt="Mon certificat" align="absmiddle" />
       <br/>
-      <img src="./assets/certificat-hacktoberfest.png" width="100%" alt="Certificat Hacktoberfest" />
+      <img src="./assets/certificat-hacktoberfest.jpeg" width="100%" alt="Certificat Hacktoberfest" />
     </td>
     <td align="center" width="35%">
       <img src="https://api.iconify.design/ph/sticker-duotone.svg?color=%23E5E7EB" height="44" align="absmiddle" />
       <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=240&height=44&repeat=false&lines=Mon+autocollant" alt="Mon autocollant" align="absmiddle" />
       <br/>
-      <img src="./assets/autocollant.png" width="100%" alt="Autocollant Hacktoberfest" />
+      <img src="./assets/autocollants-1.jpeg" width="100%" alt="Autocollant Hacktoberfest" />
     </td>
   </tr>
 </table>
@@ -139,7 +139,7 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=andytshuta01-web&bg_color=0D1117&color=FFFFFF&line=C0C0C0&point=FFFFFF&area=true&area_color=9CA3AF&hide_border=true&custom_title=Graphique%20de%20contributions" alt="Graphique d'activité" />
+
 
 </div>
 
