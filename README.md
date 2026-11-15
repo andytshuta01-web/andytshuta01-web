@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-  <img src="https://api.iconify.design/ph/user-circle-duotone.svg?color=%23E5E7EB" height="52" align="absmiddle" />
+  <img src="https://api.iconify.design/ph/user-circle-duotone.svg?color=%23E5E7EB" height="70" align="absmiddle" />
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=340&height=52&repeat=false&lines=%C3%80+propos+de+moi" alt="À propos de moi" align="absmiddle" />
 </div>
 
