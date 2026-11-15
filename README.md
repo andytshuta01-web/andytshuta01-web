@@ -27,7 +27,8 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=45&repeat=false&lines=%F0%9F%91%8B+%C3%80+propos+de+moi" alt="À propos de moi" />
+  <img src="https://api.iconify.design/lucide/user.svg?color=%23FFFFFF" height="32" align="absmiddle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=45&repeat=false&lines=%C3%80+propos+de+moi" alt="À propos de moi" align="absmiddle" />
 </div>
 
 Bonjour ! Je suis **Andy Tshuta**, développeur **Full-Stack** et **UI/UX Designer**, passionné par la création de solutions numériques modernes, évolutives et centrées sur l'utilisateur.
@@ -37,60 +38,61 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 <div align="center">
 <table width="100%" align="center">
   <tr>
-    <td width="50%" align="center">💻 Applications web modernes et responsives</td>
-    <td width="50%" align="center">🎨 Interfaces intuitives et esthétiques</td>
+    <td width="50%" align="center"><img src="https://api.iconify.design/lucide/code.svg?color=%23FFFFFF" height="20" align="absmiddle" /> Applications web modernes et responsives</td>
+    <td width="50%" align="center"><img src="https://api.iconify.design/lucide/layout-dashboard.svg?color=%23FFFFFF" height="20" align="absmiddle" /> Interfaces intuitives et esthétiques</td>
   </tr>
   <tr>
-    <td width="50%" align="center">⚙️ Systèmes backend et API RESTful</td>
-    <td width="50%" align="center">🗄️ Bases de données et architecture applicative</td>
+    <td width="50%" align="center"><img src="https://api.iconify.design/lucide/server.svg?color=%23FFFFFF" height="20" align="absmiddle" /> Systèmes backend et API RESTful</td>
+    <td width="50%" align="center"><img src="https://api.iconify.design/lucide/database.svg?color=%23FFFFFF" height="20" align="absmiddle" /> Bases de données et architecture applicative</td>
   </tr>
   <tr>
-    <td width="50%" align="center">🧩 Idées complexes → solutions pratiques</td>
-    <td width="50%" align="center">🤝 Ouvert aux collaborations et projets innovants</td>
+    <td width="50%" align="center"><img src="https://api.iconify.design/lucide/puzzle.svg?color=%23FFFFFF" height="20" align="absmiddle" /> Idées complexes → solutions pratiques</td>
+    <td width="50%" align="center"><img src="https://api.iconify.design/lucide/handshake.svg?color=%23FFFFFF" height="20" align="absmiddle" /> Ouvert aux collaborations et projets innovants</td>
   </tr>
 </table>
 </div>
 
-> 💡 **Ma philosophie :** un excellent logiciel allie fonctionnalité, performance et expérience utilisateur exceptionnelle.
+> <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%23FFFFFF" height="18" align="absmiddle" /> **Ma philosophie :** un excellent logiciel allie fonctionnalité, performance et expérience utilisateur exceptionnelle.
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=45&repeat=false&lines=%F0%9F%9B%A0%EF%B8%8F+Technologies+%26+Outils" alt="Technologies & Outils" />
+  <img src="https://api.iconify.design/lucide/wrench.svg?color=%23FFFFFF" height="32" align="absmiddle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=380&height=45&repeat=false&lines=Technologies+%26+Outils" alt="Technologies & Outils" align="absmiddle" />
 </div>
 
 <div align="center">
 <table width="100%" align="center">
   <tr>
-    <td width="30%" align="center"><b>🌐 Frontend</b></td>
+    <td width="30%" align="center"><img src="https://api.iconify.design/lucide/monitor.svg?color=%23FFFFFF" height="20" align="absmiddle" /> <b>Frontend</b></td>
     <td width="70%" align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react" /></td>
   </tr>
   <tr>
-    <td width="30%" align="center"><b>⚙️ Backend</b></td>
+    <td width="30%" align="center"><img src="https://api.iconify.design/lucide/server.svg?color=%23FFFFFF" height="20" align="absmiddle" /> <b>Backend</b></td>
     <td width="70%" align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java" /></td>
   </tr>
   <tr>
-    <td width="30%" align="center"><b>🎨 UI/UX</b></td>
+    <td width="30%" align="center"><img src="https://api.iconify.design/lucide/palette.svg?color=%23FFFFFF" height="20" align="absmiddle" /> <b>UI/UX</b></td>
     <td width="70%" align="center"><img src="https://skillicons.dev/icons?i=figma" /></td>
   </tr>
   <tr>
-    <td width="30%" align="center"><b>🗄️ Bases de données</b></td>
+    <td width="30%" align="center"><img src="https://api.iconify.design/lucide/database.svg?color=%23FFFFFF" height="20" align="absmiddle" /> <b>Bases de données</b></td>
     <td width="70%" align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite" /></td>
   </tr>
   <tr>
-    <td width="30%" align="center"><b>💅 Styling</b></td>
+    <td width="30%" align="center"><img src="https://api.iconify.design/lucide/paintbrush.svg?color=%23FFFFFF" height="20" align="absmiddle" /> <b>Styling</b></td>
     <td width="70%" align="center"><img src="https://skillicons.dev/icons?i=tailwind,bootstrap" /></td>
   </tr>
   <tr>
-    <td width="30%" align="center"><b>🧰 Outils de dev</b></td>
+    <td width="30%" align="center"><img src="https://api.iconify.design/lucide/terminal.svg?color=%23FFFFFF" height="20" align="absmiddle" /> <b>Outils de dev</b></td>
     <td width="70%" align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" /></td>
   </tr>
   <tr>
-    <td width="30%" align="center"><b>🔀 Versioning</b></td>
+    <td width="30%" align="center"><img src="https://api.iconify.design/lucide/git-branch.svg?color=%23FFFFFF" height="20" align="absmiddle" /> <b>Versioning</b></td>
     <td width="70%" align="center"><img src="https://skillicons.dev/icons?i=git,github" /></td>
   </tr>
   <tr>
-    <td width="30%" align="center"><b>🎬 Multimédia</b></td>
+    <td width="30%" align="center"><img src="https://api.iconify.design/lucide/clapperboard.svg?color=%23FFFFFF" height="20" align="absmiddle" /> <b>Multimédia</b></td>
     <td width="70%" align="center"><img src="https://skillicons.dev/icons?i=ae,pr,capcut" /></td>
   </tr>
 </table>
@@ -99,32 +101,36 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=45&repeat=false&lines=%F0%9F%8F%86+Hacktoberfest" alt="Hacktoberfest" />
+  <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FFFFFF" height="32" align="absmiddle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=280&height=45&repeat=false&lines=Hacktoberfest" alt="Hacktoberfest" align="absmiddle" />
 </div>
 
 <div align="center">
 <table align="center">
   <tr>
     <td align="center" width="65%">
-      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=350&height=40&repeat=false&lines=%F0%9F%8E%93+Mon+certificat" alt="Mon certificat" />
+      <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23FFFFFF" height="26" align="absmiddle" />
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=40&repeat=false&lines=Mon+certificat" alt="Mon certificat" align="absmiddle" />
       <br/>
-      <img src="./assets/certificat-hacktoberfest.jpeg" width="100%" alt="Certificat Hacktoberfest" />
+      <img src="./assets/certificat-hacktoberfest.png" width="100%" alt="Certificat Hacktoberfest" />
     </td>
     <td align="center" width="35%">
-      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=40&repeat=false&lines=%F0%9F%8E%81+Mon+autocollant" alt="Mon autocollant" />
+      <img src="https://api.iconify.design/lucide/sticker.svg?color=%23FFFFFF" height="26" align="absmiddle" />
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=40&repeat=false&lines=Mon+autocollant" alt="Mon autocollant" align="absmiddle" />
       <br/>
-      <img src="./assets/autocollants-1.jpeg" width="100%" alt="Autocollant Hacktoberfest" />
+      <img src="./assets/autocollant.png" width="100%" alt="Autocollant Hacktoberfest" />
     </td>
   </tr>
 </table>
 
-<i>Fier d'avoir contribué à l'open source 🤍</i>
+<img src="https://api.iconify.design/lucide/heart.svg?color=%23FFFFFF" height="16" align="absmiddle" /> <i>Fier d'avoir contribué à l'open source</i>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=45&repeat=false&lines=%F0%9F%93%8A+Activit%C3%A9+GitHub" alt="Activité GitHub" />
+  <img src="https://api.iconify.design/lucide/activity.svg?color=%23FFFFFF" height="32" align="absmiddle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=45&repeat=false&lines=Activit%C3%A9+GitHub" alt="Activité GitHub" align="absmiddle" />
 </div>
 
 <div align="center">
@@ -140,7 +146,8 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=45&repeat=false&lines=%F0%9F%90%8D+Mon+activit%C3%A9+en+mode+Snake" alt="Snake" />
+  <img src="https://api.iconify.design/lucide/worm.svg?color=%23FFFFFF" height="32" align="absmiddle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=460&height=45&repeat=false&lines=Mon+activit%C3%A9+en+mode+Snake" alt="Snake" align="absmiddle" />
 </div>
 
 <div align="center">
@@ -154,7 +161,8 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=45&repeat=false&lines=%F0%9F%A7%A0+%C3%89tat+d%27esprit" alt="État d'esprit" />
+  <img src="https://api.iconify.design/lucide/brain.svg?color=%23FFFFFF" height="32" align="absmiddle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=280&height=45&repeat=false&lines=%C3%89tat+d%27esprit" alt="État d'esprit" align="absmiddle" />
 </div>
 
 <div align="center">
@@ -166,7 +174,8 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=45&repeat=false&lines=%F0%9F%A4%9D+Restons+en+contact" alt="Restons en contact" />
+  <img src="https://api.iconify.design/lucide/handshake.svg?color=%23FFFFFF" height="32" align="absmiddle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=340&height=45&repeat=false&lines=Restons+en+contact" alt="Restons en contact" align="absmiddle" />
 </div>
 
 <div align="center">
@@ -178,7 +187,9 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=45&repeat=false&lines=%E2%9C%A8+Code.+Create.+Innovate.+%E2%9C%A8" alt="Code. Create. Innovate." />
+  <img src="https://api.iconify.design/lucide/sparkles.svg?color=%23FFFFFF" height="28" align="absmiddle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=360&height=45&repeat=false&lines=Code.+Create.+Innovate." alt="Code. Create. Innovate." align="absmiddle" />
+  <img src="https://api.iconify.design/lucide/sparkles.svg?color=%23FFFFFF" height="28" align="absmiddle" />
   <br/>
   <i>« Great things are built one commit at a time. »</i>
 </div>
