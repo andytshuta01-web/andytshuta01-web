@@ -33,7 +33,23 @@
 
 Bonjour ! Je suis **Andy Tshuta**, développeur **Full-Stack** et **UI/UX Designer**, passionné par la création de solutions numériques modernes, évolutives et centrées sur l'utilisateur.
 
-J'associe compétences techniques et sens créatif pour transformer des idées en expériences numériques concrètes.
+J'aime transformer une idée en un produit concret, de la première maquette jusqu'à la mise en ligne. Je conçois l'interface, je développe le frontend et le backend, je structure la base de données et je m'assure que l'ensemble reste simple à utiliser et facile à faire évoluer.
+
+### Ma façon de travailler
+
+Pour moi, un bon projet commence par comprendre le besoin réel de l'utilisateur. Je dessine d'abord des interfaces claires sur Figma, puis je les transforme en applications rapides, responsives et accessibles. J'écris un code propre et lisible, pensé pour être maintenu et amélioré dans le temps.
+
+### Ce qui me motive
+
+- Créer des interfaces qui donnent envie d'être utilisées.
+- Construire des API et des systèmes solides, sur lesquels on peut compter.
+- Apprendre en continu : nouvelles technologies, bonnes pratiques et outils modernes.
+- Contribuer à l'open source, comme avec ma participation au Hacktoberfest.
+- Allier technique et créativité, y compris avec le montage vidéo et l'animation (After Effects, Premiere Pro, CapCut).
+
+### Ce que je recherche
+
+Je suis ouvert aux collaborations, aux missions freelance et aux projets innovants. Si tu as une idée à concrétiser, un produit à améliorer ou une équipe à rejoindre, n'hésite pas à me contacter.
 
 <div align="center">
 <table width="100%" align="center">
@@ -263,119 +279,4 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
       Organisme · 20XX
     </td>
     <td width="50%" align="center">
-      <img src="./assets/certificat-3.png" width="100%" alt="Certificat 3" /><br/>
-      <b>Nom de la formation 2</b><br/>
-      Organisme · 20XX
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-<div align="center">
-  <img src="https://api.iconify.design/ph/medal-duotone.svg?color=%23E5E7EB" height="52" align="absmiddle" />
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=52&repeat=false&lines=Troph%C3%A9es" alt="Trophées" align="absmiddle" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=andytshuta01-web&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophées GitHub" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://api.iconify.design/ph/chart-line-up-duotone.svg?color=%23E5E7EB" height="52" align="absmiddle" />
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=340&height=52&repeat=false&lines=Activit%C3%A9+GitHub" alt="Activité GitHub" align="absmiddle" />
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://streak-stats.demolab.com?user=andytshuta01-web&theme=transparent&hide_border=true&background=0D1117&ring=C0C0C0&fire=F97316&currStreakLabel=FFFFFF&sideLabels=D1D5DB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="Série de contributions" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=andytshuta01-web&bg_color=0D1117&color=FFFFFF&line=C0C0C0&point=FFFFFF&area=true&area_color=9CA3AF&hide_border=true&custom_title=Graphique%20de%20contributions" alt="Graphique d'activité" />
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://api.iconify.design/ph/game-controller-duotone.svg?color=%23E5E7EB" height="52" align="absmiddle" />
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&height=52&repeat=false&lines=Mon+activit%C3%A9+en+mode+Snake" alt="Snake" align="absmiddle" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andytshuta01-web/andytshuta01-web/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andytshuta01-web/andytshuta01-web/output/github-snake.svg" />
-    <img alt="Snake des contributions" src="https://raw.githubusercontent.com/andytshuta01-web/andytshuta01-web/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <img src="https://api.iconify.design/ph/newspaper-duotone.svg?color=%23E5E7EB" height="52" align="absmiddle" />
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&height=52&repeat=false&lines=Derniers+articles" alt="Derniers articles" align="absmiddle" />
-</div>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-  <img src="https://api.iconify.design/ph/brain-duotone.svg?color=%23E5E7EB" height="52" align="absmiddle" />
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=320&height=52&repeat=false&lines=%C3%89tat+d%27esprit" alt="État d'esprit" align="absmiddle" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/CONSTRUIRE-DE%20NOUVELLES%20IDÉES-6B7280?style=flat-square" />
-  <img src="https://img.shields.io/badge/ÉCRIRE-DU%20CODE%20PROPRE-9CA3AF?style=flat-square" />
-  <img src="https://img.shields.io/badge/TOUJOURS-S'AMÉLIORER-22C55E?style=flat-square" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://api.iconify.design/ph/paper-plane-tilt-duotone.svg?color=%23E5E7EB" height="52" align="absmiddle" />
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=320&height=52&repeat=false&lines=Me+contacter" alt="Me contacter" align="absmiddle" />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/TON-PROFIL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ton.email@exemple.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/NUMERO_AVEC_INDICATIF">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <br/>
-  <a href="https://ton-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-4B5563?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="./assets/CV-Andy-Tshuta.pdf">
-    <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger%20mon%20CV-4B5563?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-  <a href="https://github.com/andytshuta01-web">
-    <img src="https://img.shields.io/badge/GitHub-andytshuta01--web-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://api.iconify.design/ph/sparkle-duotone.svg?color=%23E5E7EB" height="44" align="absmiddle" />
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=420&height=48&repeat=false&lines=Code.+Create.+Innovate." alt="Code. Create. Innovate." align="absmiddle" />
-  <img src="https://api.iconify.design/ph/sparkle-duotone.svg?color=%23E5E7EB" height="44" align="absmiddle" />
-  <br/>
-  <i>« Great things are built one commit at a time. »</i>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:C0C0C0,100:FFFFFF&height=120&section=footer" alt="" />
-</div>
+      <img src="./assets/certificat-3.png" width="100%" alt="Certificat 3"
