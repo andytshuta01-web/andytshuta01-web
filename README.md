@@ -34,20 +34,22 @@ Bonjour ! Je suis **Andy Tshuta**, développeur **Full-Stack** et **UI/UX Design
 
 J'associe compétences techniques et sens créatif pour transformer des idées en expériences numériques concrètes.
 
-<table width="100%">
+<div align="center">
+<table width="100%" align="center">
   <tr>
-    <td width="50%">💻 Applications web modernes et responsives</td>
-    <td width="50%">🎨 Interfaces intuitives et esthétiques</td>
+    <td width="50%" align="center">💻 Applications web modernes et responsives</td>
+    <td width="50%" align="center">🎨 Interfaces intuitives et esthétiques</td>
   </tr>
   <tr>
-    <td>⚙️ Systèmes backend et API RESTful</td>
-    <td>🗄️ Bases de données et architecture applicative</td>
+    <td width="50%" align="center">⚙️ Systèmes backend et API RESTful</td>
+    <td width="50%" align="center">🗄️ Bases de données et architecture applicative</td>
   </tr>
   <tr>
-    <td>🧩 Idées complexes → solutions pratiques</td>
-    <td>🤝 Ouvert aux collaborations et projets innovants</td>
+    <td width="50%" align="center">🧩 Idées complexes → solutions pratiques</td>
+    <td width="50%" align="center">🤝 Ouvert aux collaborations et projets innovants</td>
   </tr>
 </table>
+</div>
 
 > 💡 **Ma philosophie :** un excellent logiciel allie fonctionnalité, performance et expérience utilisateur exceptionnelle.
 
@@ -57,40 +59,42 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=45&repeat=false&lines=%F0%9F%9B%A0%EF%B8%8F+Technologies+%26+Outils" alt="Technologies & Outils" />
 </div>
 
-<table width="100%">
+<div align="center">
+<table width="100%" align="center">
   <tr>
-    <td width="30%"><b>🌐 Frontend</b></td>
-    <td width="70%"><img src="https://skillicons.dev/icons?i=html,css,js,react" /></td>
+    <td width="30%" align="center"><b>🌐 Frontend</b></td>
+    <td width="70%" align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react" /></td>
   </tr>
   <tr>
-    <td width="30%"><b>⚙️ Backend</b></td>
-    <td width="70%"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java" /></td>
+    <td width="30%" align="center"><b>⚙️ Backend</b></td>
+    <td width="70%" align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java" /></td>
   </tr>
   <tr>
-    <td width="30%"><b>🎨 UI/UX</b></td>
-    <td width="70%"><img src="https://skillicons.dev/icons?i=figma" /></td>
+    <td width="30%" align="center"><b>🎨 UI/UX</b></td>
+    <td width="70%" align="center"><img src="https://skillicons.dev/icons?i=figma" /></td>
   </tr>
   <tr>
-    <td width="30%"><b>🗄️ Bases de données</b></td>
-    <td width="70%"><img src="https://skillicons.dev/icons?i=mysql,sqlite" /></td>
+    <td width="30%" align="center"><b>🗄️ Bases de données</b></td>
+    <td width="70%" align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite" /></td>
   </tr>
   <tr>
-    <td width="30%"><b>💅 Styling</b></td>
-    <td width="70%"><img src="https://skillicons.dev/icons?i=tailwind,bootstrap" /></td>
+    <td width="30%" align="center"><b>💅 Styling</b></td>
+    <td width="70%" align="center"><img src="https://skillicons.dev/icons?i=tailwind,bootstrap" /></td>
   </tr>
   <tr>
-    <td width="30%"><b>🧰 Outils de dev</b></td>
-    <td width="70%"><img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" /></td>
+    <td width="30%" align="center"><b>🧰 Outils de dev</b></td>
+    <td width="70%" align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" /></td>
   </tr>
   <tr>
-    <td width="30%"><b>🔀 Versioning</b></td>
-    <td width="70%"><img src="https://skillicons.dev/icons?i=git,github" /></td>
+    <td width="30%" align="center"><b>🔀 Versioning</b></td>
+    <td width="70%" align="center"><img src="https://skillicons.dev/icons?i=git,github" /></td>
   </tr>
   <tr>
-    <td width="30%"><b>🎬 Multimédia</b></td>
-    <td width="70%"><img src="https://skillicons.dev/icons?i=ae,pr,capcut" /></td>
+    <td width="30%" align="center"><b>🎬 Multimédia</b></td>
+    <td width="70%" align="center"><img src="https://skillicons.dev/icons?i=ae,pr,capcut" /></td>
   </tr>
 </table>
+</div>
 
 ---
 
