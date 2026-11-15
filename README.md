@@ -103,23 +103,22 @@ J'associe compétences techniques et sens créatif pour transformer des idées e
 </div>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=40&repeat=false&lines=%F0%9F%8E%93+Mon+certificat" alt="Mon certificat" />
-
-<img src="./assets/certificat-hacktoberfest.png" width="70%" alt="Certificat Hacktoberfest" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=40&repeat=false&lines=%F0%9F%8E%81+Mes+autocollants+re%C3%A7us" alt="Mes autocollants reçus" />
-
-<img src="./assets/autocollants-1.png" width="30%" alt="Autocollant 1" />
-<img src="./assets/autocollants-2.png" width="30%" alt="Autocollant 2" />
-<img src="./assets/autocollants-3.png" width="30%" alt="Autocollant 3" />
-
-<br/><br/>
+<table align="center">
+  <tr>
+    <td align="center" width="65%">
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=350&height=40&repeat=false&lines=%F0%9F%8E%93+Mon+certificat" alt="Mon certificat" />
+      <br/>
+      <img src="./assets/certificat-hacktoberfest.png" width="100%" alt="Certificat Hacktoberfest" />
+    </td>
+    <td align="center" width="35%">
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=40&repeat=false&lines=%F0%9F%8E%81+Mon+autocollant" alt="Mon autocollant" />
+      <br/>
+      <img src="./assets/autocollant.png" width="100%" alt="Autocollant Hacktoberfest" />
+    </td>
+  </tr>
+</table>
 
 <i>Fier d'avoir contribué à l'open source 🤍</i>
-
 </div>
 
 ---
