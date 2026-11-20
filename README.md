@@ -182,7 +182,7 @@ d'approvisionnement moderne, caractérisés par des marges réduites, une forte 
 sur la fraîcheur des produits et la nécessité d'une traçabilité irréprochable, Uza Shops 
 émerge comme une réponse technologique stratégique.<br/><br/>
       <img src="https://skillicons.dev/icons?i=react,nodejs,mysql" /><br/><br/>
-      <a href="https://github.com/andytshuta01-web/NOM-DU-DEPOT-1"><img src="https://img.shields.io/badge/Voir%20le%20projet-4B5563?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/andytshuta01-web/uza-shops.git"><img src="https://img.shields.io/badge/Voir%20le%20projet-4B5563?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" align="center">
       <img src="https://api.iconify.design/ph/folder-open-duotone.svg?color=%23E5E7EB" height="40" /><br/>
